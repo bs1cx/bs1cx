@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bs1cx
+- 👋 Hi, I’m Doğu
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI      
+- 🌱 I’m currently learning AI-Data science-Machine Learning     
 - 📫 How to reach me doukan.krdas@gmail.com
 <!---
 bs1cx/bs1cx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
