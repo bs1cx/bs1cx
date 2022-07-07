@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Doğu
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI-Data science-Machine Learning     
-- 📫 How to reach me doukan.krdas@gmail.com
-<!---
-bs1cx/bs1cx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am Doğukan, shortly Doğu.
+I am trying to improve myself in the field of cyber security.
+I continue to improve myself by getting Computer Skills, Networking skills, Programming skills, CEH By CBRT, Practice on HTB, Practice on THM, EJPT, OSCP Certification, respectively.
+I'm thinking of progressing in the Red Team part in the PenTest field.
