@@ -1,1 +1,2 @@
-Hello, I am Doğukan, shortly Doğ
+Hello, My name is Dogukan.
+I'm Junior Python Developer
