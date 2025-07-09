@@ -25,7 +25,7 @@ Google'dan işletme bilgilerini çeken Python botu:
 - **Kullandığım Teknolojiler:** BeautifulSoup, Tkinter
 - **Öne Çıkan Özellik:** Excel'e otomatik veri aktarımı
 
-### 2. [EmailAutomation](https://github.com/dogukankardas/EmailAutomation)
+### 2. [EmailAutomation](https://github.com/bs1cx/Mail-Sender))
 Toplu mail gönderim aracı:
 - **Kullandığım Teknolojiler:** SMTP, Pandas
 - **Başarı Metrik:** 1000+ maili tek seferde gönderme
