@@ -30,7 +30,7 @@ Toplu mail gönderim aracı:
 - **Kullandığım Teknolojiler:** SMTP, Pandas
 - **Başarı Metrik:** 1000+ maili tek seferde gönderme
 
-### 3. [InstaAnalytics](https://github.com/dogukankardas/InstaAnalytics) *(Yardım alarak geliştirdim)*
+### 3. [InstaAnalytics](https://github.com/bs1cx/Instagram-Bot) *(Yardım alarak geliştirdim)*
 Instagram analiz arayüzü:
 - **Öğrendiklerim:** API entegrasyonu, temel veri görselleştirme
 
