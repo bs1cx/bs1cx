@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Projelerim
-### 1. [BusinessBot](https://github.com/dogukankardas/BusinessBot)
+### 1. [BusinessBot](https://github.com/bs1cx/Customer-Finder)
 Google'dan işletme bilgilerini çeken Python botu:
 - **Kullandığım Teknolojiler:** BeautifulSoup, Tkinter
 - **Öne Çıkan Özellik:** Excel'e otomatik veri aktarımı
