@@ -1,6 +1,6 @@
 # Merhaba, Ben Doğukan! 👋
 
-**🛠️ Otomasyon Geliştirici | 🐍 Python Meraklısı | 📈 Veri Toplama Uzmanı**  
+**🛠️ Otomasyon Geliştirici | 🐍 Python Meraklısı | 📈 Technical Product Developer | IT Professional**  
 *"Kod yazmayı öğrenme yolculuğumda, pratik araçlar geliştiriyorum."*
 
 ---
